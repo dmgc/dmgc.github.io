@@ -529,9 +529,8 @@ body {
 .article {
   margin: 50px 0;
 }
-.article-inner {
-  padding-left: 70px;
-  padding-right: 70px;
+#  padding-left: 70px,
+#  padding-right: 70px {
   overflow: hidden;
 }
 .article-meta {
